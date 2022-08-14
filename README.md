@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Shopping_cart](Shopping_cart.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
