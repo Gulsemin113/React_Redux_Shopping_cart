@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Shopping_cart](Shopping_cart.gif).
+![Shopping_cart](Shopping_cart.gif "Making analog and digital clocks with html, css and js").
 ## Available Scripts
 
 In the project directory, you can run:
