@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<img src="Shopping_cart.gif" width="75%">
+![Shopping_cart](Shopping_cart.gif).
 ## Available Scripts
 
 In the project directory, you can run:
